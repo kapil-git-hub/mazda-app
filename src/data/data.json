@@ -1,0 +1,54 @@
+{
+   "Slides":[
+      {
+         "url":"../src/assets/images/2020-cx5-desktop-hero-retouchedv3.jpg",
+         "imageDetails":{
+            "description":"ESTD. 1920 HIROSHIMA, JAPAN",
+            "title":"Celebrating 100 Years of Human Ingenuity",
+            "buttonText":"learn more"
+         }
+      },
+      {
+         "url":"src/assets/images/2020-mx5rf-desktop-static-homepage.jpg",
+         "imageDetails":{
+            "description":"ESTD. 1920 HIROSHIMA, JAPAN 1",
+            "title":"Celebrating 100 Years of Human Ingenuity 1",
+            "buttonText":"learn more"
+         }
+      },
+      {
+         "url":"src/assets/images/desktop-100thanniversary-v1.3.jpg",
+         "imageDetails":{
+            "description":"ESTD. 1920 HIROSHIMA, JAPAN  2",
+            "title":"Celebrating 100 Years of Human Ingenuity 2",
+            "buttonText":"learn more"
+         }
+      },
+      {
+         "url":"src/assets/images/hp_mazda_cx30_hero_desktop_1.jpg",
+         "imageDetails":{
+            "description":"ESTD. 1920 HIROSHIMA, JAPAN 3",
+            "title":"Celebrating 100 Years of Human Ingenuity 3",
+            "buttonText":"learn more"
+         }
+      }
+   ],
+   "ImageTextGrid":[
+      {
+         "imageUrl":"src/assets/images/build-and-price.png",
+         "imageTitle":"Build & Price"
+      },
+      {
+         "imageUrl":"src/assets/images/special-offers.png",
+         "imageTitle":"Special Offers"
+      },
+      {
+         "imageUrl":"src/assets/images/find-a-dealer.png",
+         "imageTitle":"Find a dealer"
+      },
+      {
+         "imageUrl":"src/assets/images/reserve-a-test-drive.png",
+         "imageTitle":"Schedule a drive"
+      }
+   ]
+}

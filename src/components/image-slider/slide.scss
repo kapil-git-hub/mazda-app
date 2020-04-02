@@ -1,0 +1,48 @@
+.slide {
+    height: 100;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn-default{
+    position: initial;
+    min-width: 170px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.carousel-caption {
+    width: 80%;
+    position: relative;
+	left: 10%;
+	right: unset;
+	bottom: unset;
+	top: 8%;
+	font-family: "Mazda Type",helvetica,arial,sans-serif;
+	h1{
+        line-height: 47px;
+		font-weight: 500px;
+		text-transform: uppercase;
+		letter-spacing: .2em;
+    }
+	h2 {
+        font-size: 20px;
+        line-height: 25px;
+	}
+}
+.img-slider-bottom-btn {
+    font-family: "Mazda Type",helvetica,arial,sans-serif;
+    position: absolute;
+    bottom: 22%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0% 0% 0% 10.67%;
+	:hover{
+	    color: #fff;
+		background-color: #d5d5d5;
+	}
+}
+

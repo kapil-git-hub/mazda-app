@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/images/mazda-logo.png';
+import logo from '../../assets/images/mazda-logo.png';
 
 class Header extends React.Component {
 	render() {
