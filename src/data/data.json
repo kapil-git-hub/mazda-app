@@ -50,5 +50,12 @@
          "imageUrl":"src/assets/images/reserve-a-test-drive.png",
          "imageTitle":"Schedule a drive"
       }
-   ]
+   ],
+   "ImageGrid": {
+      "bgImage": "./src/assets/images/2019-iihs-top-safety-pick-mazda-3-hatchback-sedan.jpg",
+      "headerImage": "./src/assets/images/2019-iihs-accolade.png",
+      "paragraph": "The 2019 Mazda3 Hatchback and Sedan are IIHS Top Safety Picks when equipped with available Smart Brake Support.",
+      "buttonText1": "explore hatchback",
+      "buttonText2": "explore sedan"
+   }
 }

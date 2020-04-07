@@ -1,0 +1,26 @@
+$color: #d5d5d5;
+$active_width_or_height: 5px;
+$inactive_width_or_height: 1px;
+$left_or_right_distance: 25px;
+
+:export {
+    color: $color;
+    distance: $left_or_right_distance;
+    active-width-or-height: $active_width_or_height;
+    inactive-width-or-height: $inactive_width_or_height;
+}
+.dots {
+    padding: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 50%;
+    border:2px solid $color;
+}
+.slides-map-dots {
+    position: absolute;
+    bottom: 25px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
